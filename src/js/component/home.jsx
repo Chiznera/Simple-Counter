@@ -5,7 +5,7 @@ import Card from "./card.jsx";
 const Home = (props) => {
   return (
     <div className="d-flex">
-      <div className="card">
+      <div className="card bg-dark text-light mx-1">
         <div className="card-body">
           <i className="far fa-clock"></i>
         </div>
